@@ -1,0 +1,9 @@
+[
+    {
+        "id": "37d1ef32-9eba-41ab-9a3f-b16824c2eabb",
+        "name": "Elchin",
+        "email": "elchin@mail.com",
+        "password": "1234",
+        "is_teacher": false
+    }
+]
